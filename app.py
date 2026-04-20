@@ -1,5 +1,4 @@
 # Ye command Colab mein app.py file create karegi
-%%writefile app.py
 
 import streamlit as st
 import pandas as pd
